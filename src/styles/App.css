@@ -1,0 +1,42 @@
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary: #2c3e50;
+    --secondary: #34495e;
+    --accent: #e67e22;
+    --light: #ecf0f1;
+    --dark: #2c3e50;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: var(--dark);
+  }
+  
+  .app {
+    overflow-x: hidden;
+  }
+  
+  main {
+    overflow: hidden;
+  }
+  
+  .section {
+    padding: 5rem 2rem;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
