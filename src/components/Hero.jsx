@@ -14,7 +14,7 @@ const Hero = () => {
         </p>
         <div className="hero-cta">
           <a href="#contact" className="btn btn-primary">Get a Quote</a>
-          <a href="#projects" className="btn btn-secondary">View Our Work</a>
+          <a href="#projects" className="btn btn-secondary">View Our Work trabaho!</a>
         </div>
       </div>
       <div className="hero-overlay"></div>
